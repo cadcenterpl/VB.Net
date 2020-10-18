@@ -1,32 +1,42 @@
-﻿Public Class działania
-    Public Shared Function A(w, x, y, z)
-        w = ((++x + 1) > 1 Or y = 4 Or z > 0)
-        Console.Write("x=" + Str(x) + ", y=" + Str(y) + ", z=" + Str(z) + ", ")
-        Return w
-    End Function
-    Public Shared Function B(w, x, y, z)
-        w = (x > 1 And y = 4 Or z > 0)
-        Console.Write("x=" + Str(x) + ", y=" + Str(y) + ", z=" + Str(z) + ", ")
-        Return w
-    End Function
-    Public Shared Function C(w, x, y, z)
-        w = (x > 1 And y = 4 And z > 0)
-        Console.Write("x=" + Str(x) + ", y=" + Str(y) + ", z=" + Str(z) + ", ")
-        Return w
-    End Function
-    Public Shared Function D(w, x, y, z)
-        w = (++x = 1 Or (y + 1) > 2 Or ++z > 0)
-        Console.Write("x=" + Str(x) + ", y=" + Str(y) + ", z=" + Str(z) + ", ")
-        Return w
-    End Function
-    Public Shared Function E(w, x, y, z)
-        w = (++x = 1 And (y + 1) > 2 Or ++z > 0)
-        Console.Write("x=" + Str(x) + ", y=" + Str(y) + ", z=" + Str(z) + ", ")
-        Return w
-    End Function
-    Public Shared Function F(w, x, y, z)
-        w = (++x = 1 And (y + 1) > 2 And ++z > 0)
-        Console.Write("x=" + Str(x) + ", y=" + Str(y) + ", z=" + Str(z) + ", ")
-        Return w
-    End Function
+﻿Imports System
+Public Class działania
+    Public Shared Sub A(w, x, y, z)
+        w = (Math.Min(System.Threading.Interlocked.Increment(x), x - 1) > 1 AndAlso
+            Math.Min(System.Threading.Interlocked.Increment(y), y - 1) = 4 AndAlso
+            Math.Max(System.Threading.Interlocked.Decrement(z), z + 1) > 0)
+        Console.WriteLine("wynik={0} x={1} y={2} z={3}", w, x, y, z)
+    End Sub
+    Public Shared Sub B(w, x, y, z)
+        w = (Math.Min(System.Threading.Interlocked.Increment(x), x - 1) > 1 And
+            Math.Min(System.Threading.Interlocked.Increment(y), y - 1) = 4 AndAlso
+            Math.Max(System.Threading.Interlocked.Decrement(z), z + 1) > 0)
+        Console.WriteLine("wynik={0} x={1} y={2} z={3}", w, x, y, z)
+    End Sub
+    Public Shared Sub C(w, x, y, z)
+        w = (Math.Min(System.Threading.Interlocked.Increment(x), x - 1) > 1 And
+            Math.Min(System.Threading.Interlocked.Increment(y), y - 1) = 4 And
+            Math.Max(System.Threading.Interlocked.Decrement(z), z + 1) > 0)
+        Console.WriteLine("wynik={0} x={1} y={2} z={3}", w, x, y, z)
+    End Sub
+    Public Shared Sub D(w, x, y, z)
+        w = (x = 1 OrElse
+            Math.Min(System.Threading.Interlocked.Increment(y), y - 1) > 2 OrElse
+            System.Threading.Interlocked.Increment(z) > 0)
+        Console.WriteLine("wynik={0} x={1} y={2} z={3}", w, x, y, z)
+    End Sub
+    Public Shared Sub E(w, x, y, z)
+        w = (x = 1 Or
+            Math.Min(System.Threading.Interlocked.Increment(y), y - 1) > 2 OrElse
+            System.Threading.Interlocked.Increment(z) > 0)
+        Console.WriteLine("wynik={0} x={1} y={2} z={3}", w, x, y, z)
+    End Sub
+    Public Shared Sub F(w, x, y, z)
+        w = (x = 1 Or
+            Math.Min(System.Threading.Interlocked.Increment(y), y - 1) > 2 Or
+            System.Threading.Interlocked.Increment(z) > 0)
+        Console.WriteLine("wynik={0} x={1} y={2} z={3}", w, x, y, z)
+    End Sub
 End Class
+
+
+

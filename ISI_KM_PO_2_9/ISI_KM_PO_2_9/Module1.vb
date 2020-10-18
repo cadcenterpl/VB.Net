@@ -1,4 +1,6 @@
-﻿Module Module1
+﻿Imports Microsoft.CSharp
+
+Module Module1
 
     Sub Main()
         Call dane.A()
