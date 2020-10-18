@@ -1,0 +1,11 @@
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ISI_KM_PO_2_10\ISI_KM_PO_2_10\bin\Debug\ISI_KM_PO_2_10.exe.config
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ISI_KM_PO_2_10\ISI_KM_PO_2_10\bin\Debug\ISI_KM_PO_2_10.exe
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ISI_KM_PO_2_10\ISI_KM_PO_2_10\bin\Debug\ISI_KM_PO_2_10.pdb
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ISI_KM_PO_2_10\ISI_KM_PO_2_10\bin\Debug\ISI_KM_PO_2_10.xml
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ISI_KM_PO_2_10\ISI_KM_PO_2_10\obj\Debug\ISI_KM_PO_2_10.vbprojAssemblyReference.cache
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ISI_KM_PO_2_10\ISI_KM_PO_2_10\obj\Debug\ISI_KM_PO_2_10.Resources.resources
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ISI_KM_PO_2_10\ISI_KM_PO_2_10\obj\Debug\ISI_KM_PO_2_10.vbproj.GenerateResource.cache
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ISI_KM_PO_2_10\ISI_KM_PO_2_10\obj\Debug\ISI_KM_PO_2_10.vbproj.CoreCompileInputs.cache
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ISI_KM_PO_2_10\ISI_KM_PO_2_10\obj\Debug\ISI_KM_PO_2_10.exe
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ISI_KM_PO_2_10\ISI_KM_PO_2_10\obj\Debug\ISI_KM_PO_2_10.xml
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ISI_KM_PO_2_10\ISI_KM_PO_2_10\obj\Debug\ISI_KM_PO_2_10.pdb
