@@ -27,4 +27,40 @@
         Dim Napis As String = $"6. Zgodność długości hasła i formatu Email. Status: {status}"
         Return Napis
     End Function
+    Friend Shared Function Status7(status)
+        Dim Napis As String = $"7. Przesłanie danych logowania do funkcji Main. Status: {status}"
+        Return Napis
+    End Function
+    Friend Shared Function Status8(status)
+        Dim Napis As String = $"8. Sprawdzanie danych logowania w bazie danych PO_Logowanie SQL Azure. Status: {status}"
+        Return Napis
+    End Function
+    Friend Shared Function Status9(status)
+        Dim Napis As String = $"9. Połączenie z Bazą Loginów i Haseł na serwerze. Status: {status}"
+        Return Napis
+    End Function
+    Friend Shared Function Status10(status)
+        Dim Napis As String = $"10. Weryfikacja Email i Hasła. Status: {status}"
+        Return Napis
+    End Function
+    Friend Shared Function Status11(status)
+        Dim Napis As String = $"11. Weryfikacja poziomu dostępu użytkownika. Status: {status}"
+        Return Napis
+    End Function
+    Friend Shared Function Status12(status)
+        Dim Napis As String = $"12. Wywołanie Formularza Aplikacji. Status: {status}"
+        Return Napis
+    End Function
+    Friend Shared Function Status13(status)
+        Dim Napis As String = $"13. Sprawdzanie bezpieczeństwa połączenia. Status: {status}"
+        Return Napis
+    End Function
+    Friend Shared Function Status14(status)
+        Dim Napis As String = $"14. Potwierdzenie zgodności Token ONLINE. Status: {status}"
+        Return Napis
+    End Function
+    Friend Shared Function Status15(status)
+        Dim Napis As String = $"15. Wywołanie Formularza Aplikacji. Status: {status}"
+        Return Napis
+    End Function
 End Class

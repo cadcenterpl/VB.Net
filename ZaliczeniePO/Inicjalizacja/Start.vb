@@ -24,7 +24,23 @@
             Console.WriteLine(Raport.Status1("Błąd"))
         End Try
     End Sub
-    Public Sub Start_Sesja()
+    Public Sub Sprawdzenie_Danych_Logowania(Login, Hasło)
+        Try
+            Console.WriteLine(Raport.Status8("OK"))
+            Call SQL.SQL_Logowanie(Login, Hasło)
 
+        Catch ex As Exception
+            Console.WriteLine(Raport.Status8("Błąd"))
+        End Try
+    End Sub
+    Public Sub Sesja_Start(dostęp)
+        If dostęp = "OK" Then
+            Try
+                Console.WriteLine(Raport.Status12("OK"))
+                Dim Sesja1 As Sesja = New Sesja() : Sesja1.ShowDialog()
+            Catch ex As Exception
+                Console.WriteLine(Raport.Status12("Błąd"))
+            End Try
+        End If
     End Sub
 End Module

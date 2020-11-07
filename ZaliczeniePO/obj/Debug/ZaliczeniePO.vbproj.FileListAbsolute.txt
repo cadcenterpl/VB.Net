@@ -10,3 +10,4 @@ C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Debug
 C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Debug\ZaliczeniePO.xml
 C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Debug\ZaliczeniePO.pdb
 C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Debug\ZaliczeniePO.Logowanie.resources
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Debug\ZaliczeniePO.Sesja.resources

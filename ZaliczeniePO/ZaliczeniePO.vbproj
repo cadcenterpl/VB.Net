@@ -71,6 +71,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AzureSQL\SQL.vb" />
     <Compile Include="Inicjalizacja\Raport.vb" />
     <Compile Include="Inicjalizacja\Start.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -88,6 +89,12 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Okna\Sesja.Designer.vb">
+      <DependentUpon>Sesja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\Sesja.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Okna\Logowanie.Designer.vb">
       <DependentUpon>Logowanie.vb</DependentUpon>
     </Compile>
@@ -104,6 +111,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Okna\Logowanie.resx">
       <DependentUpon>Logowanie.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Okna\Sesja.resx">
+      <DependentUpon>Sesja.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

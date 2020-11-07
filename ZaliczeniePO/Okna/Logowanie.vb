@@ -21,12 +21,12 @@ Public Class Logowanie
     End Sub
 
     Private Sub TextBox2_Click(sender As Object, e As EventArgs) Handles TextBox2.Click
-        If TextBox1.Text Like "*@*.*" Then
+        If TextBox1.Text Like "*@*.uwm.edu.pl*" Then
             Label3.Visible = True : Label3.Text = "v" : Label3.ForeColor = Drawing.Color.Green
             Console.WriteLine(Raport.Status4("OK")) : Label4.Visible = False
         Else
             Label3.Visible = True : Label3.Text = "x" : Label3.ForeColor = Drawing.Color.Red
-            Label4.ForeColor = Drawing.Color.Red : Label4.Text = "Podano błędny format Email!" : Label4.Visible = True
+            Label4.ForeColor = Drawing.Color.Red : Label4.Text = "Podano błędny Email!" : Label4.Visible = True
             Console.WriteLine(Raport.Status4("Błąd"))
             Button2.Enabled = False
         End If
@@ -40,7 +40,7 @@ Public Class Logowanie
         If TextBox2.Text.Count > 6 Then
             Label5.Visible = False
             Console.WriteLine(Raport.Status5("OK"))
-            If TextBox1.Text Like "*@*.*" Then
+            If TextBox1.Text Like "*@*.uwm.edu.pl*" Then
                 Button2.Enabled = True
                 Console.WriteLine(Raport.Status6("OK"))
             End If
@@ -51,8 +51,14 @@ Public Class Logowanie
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Dim Login As String = TextBox1.Text
-        Dim Hasło As String = TextBox2.Text
+        Try
+            Dim Login As String = TextBox1.Text
+            Dim Hasło As String = TextBox2.Text
+            Console.WriteLine(Raport.Status7("OK"))
+            Call Sprawdzenie_Danych_Logowania(Login, Hasło)
+        Catch ex As Exception
+            Console.WriteLine(Raport.Status7("Błąd"))
+        End Try
 
     End Sub
 End Class
