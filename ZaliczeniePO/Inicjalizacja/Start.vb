@@ -4,7 +4,6 @@
     Dim Prowadzący As String = "M.Kolev"
 
     Dim Klawisz As ConsoleKeyInfo
-    Dim Logowanie As Logowanie = New Logowanie()
 
     Sub Main()
         Console.WriteLine(Raport.Tytul(Autor, Przedmiot, Prowadzący))
@@ -37,7 +36,8 @@
         If dostęp = "OK" Then
             Try
                 Console.WriteLine(Raport.Status12("OK"))
-                Dim Sesja1 As Sesja = New Sesja() : Sesja1.ShowDialog()
+                Dim Sesja1 As Sesja = New Sesja()
+                Sesja1.ShowDialog()
             Catch ex As Exception
                 Console.WriteLine(Raport.Status12("Błąd"))
             End Try

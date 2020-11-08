@@ -52,15 +52,15 @@
         Return Napis
     End Function
     Friend Shared Function Status13(status)
-        Dim Napis As String = $"13. Sprawdzanie bezpieczeństwa połączenia. Status: {status}"
+        Dim Napis As String = $"13. Załadowano kategorie. Status: {status}"
         Return Napis
     End Function
     Friend Shared Function Status14(status)
-        Dim Napis As String = $"14. Potwierdzenie zgodności Token ONLINE. Status: {status}"
+        Dim Napis As String = $"14. Odświeżenie Kolekcji Kategorii. Status: {status}"
         Return Napis
     End Function
     Friend Shared Function Status15(status)
-        Dim Napis As String = $"15. Wywołanie Formularza Aplikacji. Status: {status}"
+        Dim Napis As String = $"15. Zakończono sesję. Zamknięto Aplikację. Status: {status}"
         Return Napis
     End Function
 End Class

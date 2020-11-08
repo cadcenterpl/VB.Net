@@ -1,5 +1,4 @@
-﻿Imports System
-Public Class Logowanie
+﻿Public Class Logowanie
     Friend Sub Form_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Try
             Me.Text = "Panel Logowania v1.0"
