@@ -8,7 +8,7 @@ Imports System.Runtime.InteropServices
 
 ' Sprawdź wartości atrybutów zestawu
 
-<Assembly: AssemblyTitle("ISI_KM_PO_3_)5")>
+<Assembly: AssemblyTitle("ISI_KM_PO_3_05")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("ISI_KM_PO_3_)5")>
