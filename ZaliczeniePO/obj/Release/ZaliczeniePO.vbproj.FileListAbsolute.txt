@@ -1,0 +1,13 @@
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\bin\Release\ZaliczeniePO.exe.config
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\bin\Release\ZaliczeniePO.exe
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\bin\Release\ZaliczeniePO.pdb
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\bin\Release\ZaliczeniePO.xml
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Release\ZaliczeniePO.vbprojAssemblyReference.cache
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Release\ZaliczeniePO.Resources.resources
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Release\ZaliczeniePO.Logowanie.resources
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Release\ZaliczeniePO.Sesja.resources
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Release\ZaliczeniePO.vbproj.GenerateResource.cache
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Release\ZaliczeniePO.vbproj.CoreCompileInputs.cache
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Release\ZaliczeniePO.exe
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Release\ZaliczeniePO.xml
+C:\Users\CadCenter Polska\source\repos\cadcenterpl\VB.Net\ZaliczeniePO\obj\Release\ZaliczeniePO.pdb
