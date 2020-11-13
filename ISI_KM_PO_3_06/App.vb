@@ -8,8 +8,8 @@
     Public Shared Function Check(waga, wzrost)
         Dim BMI As Double = (waga / (wzrost ^ 2))
         Select Case BMI
-            Case < 18, 5 : MsgBox("Niedowaga. Musisz trochę przytyć.") : Return "Niedowaga"
-            Case 18, 5 To 24, 99 : MsgBox("Twoja waga jest idealna") : Return "Wartość Prawidłowa"
+            Case < 18.5 : MsgBox("Niedowaga. Musisz trochę przytyć.") : Return "Niedowaga"
+            Case 18.5 To 24.99 : MsgBox("Twoja waga jest idealna") : Return "Wartość Prawidłowa"
             Case >= 25 : MsgBox("Nadwaga! Odchudź się by zejść do prawidłowego poziomu") : Return "Nadwaga"
         End Select
     End Function
