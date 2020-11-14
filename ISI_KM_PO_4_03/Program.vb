@@ -1,5 +1,4 @@
-﻿Imports System.Linq
-Module Program
+﻿Module Program
     Sub Main()
         App.Start()
     End Sub

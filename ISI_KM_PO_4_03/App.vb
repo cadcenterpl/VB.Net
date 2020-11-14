@@ -40,7 +40,6 @@
         Console.WriteLine($"Wartość i numer pozycji najmniejszego elementu: Wartość:{checkWar(Lista, 2)} (poz.{checkPoz(Lista, checkWar(Lista, 2))})")
         Console.WriteLine($"Średnia wartości wszystkich elementów tablicy: {Srednia(Lista)}")
         Console.WriteLine($"Liczba dodatnich elementów tablicy: {Znak(Lista, 1)}")
-
     End Sub
     Public Shared Sub enterKey()
         Console.ReadKey()
