@@ -1,5 +1,4 @@
 ﻿Public Class MacierzRandomowa
-
     Private Pozycja(,) As Integer
     Private Row, Col As Integer
     Shared Rand As Random = New Random()
@@ -35,5 +34,4 @@
         Next
         Return Me
     End Function
-
 End Class

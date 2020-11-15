@@ -10,4 +10,7 @@
     Public Shared Sub Wyświetl(ByVal Obiekt As Object)
         Console.WriteLine(Obiekt)
     End Sub
+    Public Shared Sub Wydruk(ByVal Obiekt As Object)
+        Console.Write($"{Obiekt,-20} ")
+    End Sub
 End Class

@@ -1,6 +1,6 @@
 ﻿Module Program
     Sub Main()
-        Dim Aplikacja As App = New App("Dodawanie macierzy")
+        Dim Aplikacja As App = New App("Dodawanie macierzy randomowych")
         Dim Matrix1 As MacierzRandomowa = New MacierzRandomowa(2, 3, 1, 10)
         Dim Matrix2 As MacierzRandomowa = New MacierzRandomowa(2, 3, 1, 10)
         With Aplikacja
