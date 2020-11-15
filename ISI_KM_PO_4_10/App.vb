@@ -1,5 +1,6 @@
 ﻿Public Class App
     Private Name As String
+    Private Konstrukcja As String
     Public Sub New(ByVal Nazwa As String)
         Name = Nazwa : Console.WriteLine(Nazwa)
     End Sub
@@ -15,12 +16,12 @@
         Console.Write(Obiekt)
     End Sub
 
-    Public Sub DrukujTabele(ByVal Obiekt As Object)
-        Console.Write($"{Obiekt,-20}")
-    End Sub
-
-    Public Function OdpUżytkownika(ByVal Polecenie As String)
-        Console.Write(Polecenie)
-        Return Console.ReadLine()
+    Public Function OdpUżytkownika(ByVal Polecenie As String, Format As String)
+        Dim Odpowiedź As String
+        Do
+            Console.Write(Polecenie)
+            Odpowiedź = Console.ReadLine()
+        Loop Until Odpowiedź Like Format
+        Return Odpowiedź
     End Function
 End Class
