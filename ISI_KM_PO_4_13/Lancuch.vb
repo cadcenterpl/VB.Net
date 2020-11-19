@@ -7,7 +7,7 @@ Public Class Lancuch
     Public Sub New(Obiekt As String)
         Wartosc = Obiekt
     End Sub
-        Public Function Tresc ()
+    Public Function Tresc ()
         Return Wartosc
     End Function
     Public Function LiczWyrazy() As Integer
