@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Kamil Martenczuk <https://www.cadcenter.pl/>",
+    "classifications": [ "Common", "Console"],
+    "identity": "OperacjeNaStringach",
+    "name": "VB.NET5.0 ConsoleApp for String [Kamil Martenczuk]",
+    "shortName": "vbconsolestring",
+    "tags": {
+      "language": "[VB]",
+      "type": "project"
+    },
+    "sourceName": "Projekt",
+    "preferNameDirectory" : true
+  }
