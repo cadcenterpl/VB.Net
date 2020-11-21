@@ -2,9 +2,7 @@
     Dim Autor As String = "K.Martenczuk"
     Dim Przedmiot As String = "Programowanie Obiektowe"
     Dim Prowadzący As String = "M.Kolev"
-
     Dim Klawisz As ConsoleKeyInfo
-
     Sub Main()
         Console.WriteLine(Raport.Tytul(Autor, Przedmiot, Prowadzący))
         Console.WriteLine("Aby rozpocząć wciśnij Enter | ESC - Wyjście")
