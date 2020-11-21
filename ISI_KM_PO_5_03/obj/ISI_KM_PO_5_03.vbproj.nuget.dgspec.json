@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_03/ISI_KM_PO_5_02.vbproj": {}
+    "/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_03/ISI_KM_PO_5_03.vbproj": {}
   },
   "projects": {
-    "/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_03/ISI_KM_PO_5_02.vbproj": {
+    "/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_03/ISI_KM_PO_5_03.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_03/ISI_KM_PO_5_02.vbproj",
-        "projectName": "ISI_KM_PO_5_02",
-        "projectPath": "/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_03/ISI_KM_PO_5_02.vbproj",
+        "projectUniqueName": "/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_03/ISI_KM_PO_5_03.vbproj",
+        "projectName": "ISI_KM_PO_5_03",
+        "projectPath": "/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_03/ISI_KM_PO_5_03.vbproj",
         "packagesPath": "/home/cadcenter/.nuget/packages/",
         "outputPath": "/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_03/obj/",
         "projectStyle": "PackageReference",

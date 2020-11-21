@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "ISI_KM_PO_5_02/1.0.0": {
+      "ISI_KM_PO_5_03/1.0.0": {
         "runtime": {
-          "ISI_KM_PO_5_02.dll": {}
+          "ISI_KM_PO_5_03.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ISI_KM_PO_5_02/1.0.0": {
+    "ISI_KM_PO_5_03/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
