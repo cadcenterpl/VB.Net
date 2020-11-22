@@ -1,9 +1,0 @@
-/home/cadcenter/dotnet/VB.Net/ZaliczeniePO/obj/Debug/net5.0/ZaliczeniePO.vbprojAssemblyReference.cache
-/home/cadcenter/dotnet/VB.Net/ZaliczeniePO/obj/Debug/net5.0/Aplikacja.Resources.resources
-/home/cadcenter/dotnet/VB.Net/ZaliczeniePO/obj/Debug/net5.0/Aplikacja.Logowanie.resources
-/home/cadcenter/dotnet/VB.Net/ZaliczeniePO/obj/Debug/net5.0/Aplikacja.Sesja.resources
-/home/cadcenter/dotnet/VB.Net/ZaliczeniePO/obj/Debug/net5.0/ZaliczeniePO.vbproj.GenerateResource.cache
-/home/cadcenter/dotnet/VB.Net/ZaliczeniePO/obj/Debug/net5.0/ZaliczeniePO.GeneratedMSBuildEditorConfig.editorconfig
-/home/cadcenter/dotnet/VB.Net/ZaliczeniePO/obj/Debug/net5.0/ZaliczeniePO.AssemblyInfoInputs.cache
-/home/cadcenter/dotnet/VB.Net/ZaliczeniePO/obj/Debug/net5.0/ZaliczeniePO.AssemblyInfo.vb
-/home/cadcenter/dotnet/VB.Net/ZaliczeniePO/obj/Debug/net5.0/ZaliczeniePO.vbproj.CoreCompileInputs.cache
