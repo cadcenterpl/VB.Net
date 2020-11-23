@@ -1,0 +1,16 @@
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/obj/Debug/net5.0/ISI_KM_PO_5_10.vbprojAssemblyReference.cache
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/obj/Debug/net5.0/ISI_KM_PO_5_10.GeneratedMSBuildEditorConfig.editorconfig
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/obj/Debug/net5.0/ISI_KM_PO_5_10.AssemblyInfoInputs.cache
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/obj/Debug/net5.0/ISI_KM_PO_5_10.AssemblyInfo.vb
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/obj/Debug/net5.0/ISI_KM_PO_5_10.vbproj.CoreCompileInputs.cache
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/bin/Debug/net5.0/ISI_KM_PO_5_10
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/bin/Debug/net5.0/ISI_KM_PO_5_10.deps.json
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/bin/Debug/net5.0/ISI_KM_PO_5_10.runtimeconfig.json
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/bin/Debug/net5.0/ISI_KM_PO_5_10.runtimeconfig.dev.json
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/bin/Debug/net5.0/ISI_KM_PO_5_10.dll
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/bin/Debug/net5.0/ref/ISI_KM_PO_5_10.dll
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/bin/Debug/net5.0/ISI_KM_PO_5_10.pdb
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/obj/Debug/net5.0/ISI_KM_PO_5_10.dll
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/obj/Debug/net5.0/ref/ISI_KM_PO_5_10.dll
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/obj/Debug/net5.0/ISI_KM_PO_5_10.pdb
+/home/cadcenter/dotnet/VB.Net/ISI_KM_PO_5_10/obj/Debug/net5.0/ISI_KM_PO_5_10.genruntimeconfig.cache
