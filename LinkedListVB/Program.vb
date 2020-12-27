@@ -33,7 +33,7 @@ Module Program
     End Sub
 
     Sub Main(args As String())
-        Dim Lista1 As LinkedLista = New LinkedLista()
+        Dim Lista1 As New LinkedLista()
         For i As Integer = 0 to 3 : Lista1.Push(i) : Next
         print($"Efekt Push   : {Lista1.Widok}")
         For i As Integer = 1 to 4 : Lista1.Append(i) : Next
