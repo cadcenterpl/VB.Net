@@ -1,0 +1,16 @@
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/obj/Debug/net5.0/LinkedListVB.vbprojAssemblyReference.cache
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/obj/Debug/net5.0/LinkedListVB.GeneratedMSBuildEditorConfig.editorconfig
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/obj/Debug/net5.0/LinkedListVB.AssemblyInfoInputs.cache
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/obj/Debug/net5.0/LinkedListVB.AssemblyInfo.vb
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/obj/Debug/net5.0/LinkedListVB.vbproj.CoreCompileInputs.cache
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/bin/Debug/net5.0/LinkedListVB
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/bin/Debug/net5.0/LinkedListVB.deps.json
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/bin/Debug/net5.0/LinkedListVB.runtimeconfig.json
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/bin/Debug/net5.0/LinkedListVB.runtimeconfig.dev.json
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/bin/Debug/net5.0/LinkedListVB.dll
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/bin/Debug/net5.0/ref/LinkedListVB.dll
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/bin/Debug/net5.0/LinkedListVB.pdb
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/obj/Debug/net5.0/LinkedListVB.dll
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/obj/Debug/net5.0/ref/LinkedListVB.dll
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/obj/Debug/net5.0/LinkedListVB.pdb
+/home/cadcenter/dotnet/VB.Net/LinkedListVB/obj/Debug/net5.0/LinkedListVB.genruntimeconfig.cache

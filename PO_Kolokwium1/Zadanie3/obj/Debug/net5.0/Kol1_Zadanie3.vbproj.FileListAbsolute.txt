@@ -1,0 +1,16 @@
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/bin/Debug/net5.0/Kol1_Zadanie3
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/bin/Debug/net5.0/Kol1_Zadanie3.deps.json
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/bin/Debug/net5.0/Kol1_Zadanie3.runtimeconfig.json
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/bin/Debug/net5.0/Kol1_Zadanie3.runtimeconfig.dev.json
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/bin/Debug/net5.0/Kol1_Zadanie3.dll
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/bin/Debug/net5.0/ref/Kol1_Zadanie3.dll
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/bin/Debug/net5.0/Kol1_Zadanie3.pdb
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/obj/Debug/net5.0/Kol1_Zadanie3.vbprojAssemblyReference.cache
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/obj/Debug/net5.0/Kol1_Zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/obj/Debug/net5.0/Kol1_Zadanie3.AssemblyInfoInputs.cache
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/obj/Debug/net5.0/Kol1_Zadanie3.AssemblyInfo.vb
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/obj/Debug/net5.0/Kol1_Zadanie3.vbproj.CoreCompileInputs.cache
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/obj/Debug/net5.0/Kol1_Zadanie3.dll
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/obj/Debug/net5.0/ref/Kol1_Zadanie3.dll
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/obj/Debug/net5.0/Kol1_Zadanie3.pdb
+/home/cadcenter/dotnet/VB.Net/PO_Kolokwium1/Zadanie3/obj/Debug/net5.0/Kol1_Zadanie3.genruntimeconfig.cache
