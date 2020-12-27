@@ -1,4 +1,5 @@
 Imports System
+
 Public Class Nodek
     Public Property wart As String : Public Property nast As Nodek
     Public Sub New(ByVal wartosc As String)
@@ -8,13 +9,12 @@ End Class
 
 Public Class LinkedLista
     Public Property head As Nodek : Public Property tail As Nodek
-
     Public Sub Push(ByVal str As String)
-        Dim node As Nodek = New Nodek(str) : node.nast = head : head = node
+        Dim node As New Nodek(str) : node.nast = head : head = node
     End Sub
 
     Public Sub Append(ByVal str As String)
-        Dim sh = head : Dim node As Nodek = New Nodek(str) : While sh.nast isNot Nothing : sh = sh.nast : End While : sh.nast = node
+        Dim sh = head : Dim node As New Nodek(str) : While sh.nast isNot Nothing : sh = sh.nast : End While : sh.nast = node
     End Sub
 
     Public Function Pop() As Nodek
